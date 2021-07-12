@@ -139,13 +139,13 @@
 
 15.	张佳乐，2021年毕业，现于中兴通讯股份有限公司工作。
 
-![图片1](https://github.com/mendy-2013/Resume/blob/main/2.jpg)
+![图片2](https://github.com/mendy-2013/Resume/blob/main/2.jpg)
 
-![图片1](https://github.com/mendy-2013/Resume/blob/main/3.jpg)
+![图片3](https://github.com/mendy-2013/Resume/blob/main/3.jpg)
 
-![图片1](https://github.com/mendy-2013/Resume/blob/main/4.jpg)
+![图片4](https://github.com/mendy-2013/Resume/blob/main/4.jpg)
 
-![图片1](https://github.com/mendy-2013/Resume/blob/main/5.jpg)
+![图片5](https://github.com/mendy-2013/Resume/blob/main/5.jpg)
 
 联系方式：mendy2013@163.com。
 
