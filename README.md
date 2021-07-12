@@ -1,5 +1,5 @@
 # 我的简历
-https://github.com/mendy-2013/Resume/blob/main/1.jpg
+![图片1](https://github.com/mendy-2013/Resume/blob/main/1.jpg)
 
 胡明娣，女，1970年生，中共党员，西安邮电大学通信与信息工程学院副教授，博士研究生。
 
@@ -139,13 +139,13 @@ https://github.com/mendy-2013/Resume/blob/main/1.jpg
 
 15.	张佳乐，2021年毕业，现于中兴通讯股份有限公司工作。
 
-https://github.com/mendy-2013/Resume/blob/main/2.jpg
+![图片1](https://github.com/mendy-2013/Resume/blob/main/2.jpg)
 
-https://github.com/mendy-2013/Resume/blob/main/3.jpg
+![图片1](https://github.com/mendy-2013/Resume/blob/main/3.jpg)
 
-https://github.com/mendy-2013/Resume/blob/main/4.jpg
+![图片1](https://github.com/mendy-2013/Resume/blob/main/4.jpg)
 
-https://github.com/mendy-2013/Resume/blob/main/5.jpg
+![图片1](https://github.com/mendy-2013/Resume/blob/main/5.jpg)
 
 联系方式：mendy2013@163.com。
 
