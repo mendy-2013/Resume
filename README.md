@@ -147,7 +147,9 @@
 
 ![图片5](https://github.com/mendy-2013/Resume/blob/main/5.jpg)
 
-联系方式：mendy2013@163.com。
+
+# 联系方式
+邮箱：mendy2013@163.com。
 
 个人网页：https://github.com/mendy-2013。
 
