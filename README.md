@@ -60,9 +60,10 @@
 
 # 发表学术论文
 [1]胡明娣,张中茂,杨洁,许天倚.一种基于融合特征的多源遥感图像配准算法[J].西安邮电大学学报,2020,25(02):7-14. （核心）
-DOI：10.13682/j.issn.2095-6533.2020.02.002
+https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=XAYD202002002
 
 [2]杨洁,胡明娣,李立,翟晓红,许天倚,张中茂.人型网络乳腺钼靶影像分类方法研究[J].计算机工程与应用,2020,56(24):164-168.（CSCD）
+https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=JSGG202024023
 
 [3]胡明娣,张中茂,许天倚,杨洁.改进Hausdorff距离和粒子群的图像配准算法[J].西安邮电大学学报,2019,24(05):41-46. （核心）
 
