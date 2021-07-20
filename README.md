@@ -66,48 +66,70 @@ https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&fil
 https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=JSGG202024023
 
 [3]胡明娣,张中茂,许天倚,杨洁.改进Hausdorff距离和粒子群的图像配准算法[J].西安邮电大学学报,2019,24(05):41-46. （核心）
+https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=XAYD201905009
 
 [4]胡明娣,刘标.基于三支决策的分步约简纹身图像检索[J].西安邮电大学学报,2019,24(02):31-34. （核心）
+https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=XAYD201902007
 
 [5]胡明娣,霍艳艳.基于Gamma隶属度的车辆图像检索算法[J].西安邮电大学学报,2019,24(01):36-40. （核心）
+https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=XAYD201901007
 
 [6]胡明娣,霍艳艳,张孟斌.梯形高斯隶属度量化算法及在汽车图像库的仿真[J].模糊系统与数学,2018,32(06):117-125. （核心）
+https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2019&filename=MUTE201806016
 
 [7]胡明娣,孔波.基于改进的颜色和形状特征融合的图像检索[J].西安文理学院学报(自然科学版),2018,21(02):28-33. （核心）
+https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=XAJY201802007
 
 [8]胡明娣,臧艺迪,徐家慧.基于FABEMD的纹理图像分类算法[J].西安邮电大学学报,2018,23(01):53-58. （核心）
+https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=XAYD201801008
 
 [9]胡明娣,李萌飞.基于Vague集模糊量化的图像检索算法[J].西安邮电大学学报,2017,22(06):50-55. （核心）
+https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=XAYD201706009
 
 [10]胡明娣,孔波.基于矩形区域重叠分块加权的图像检索[J].西安邮电大学学报,2017,22(05):56-61. （核心）
+https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=XAYD201705009
 
 [11]王静,胡明娣.基于Vague集的异构网络垂直切换算法[J].光通信研究,2017(03):62-65. （核心）
+https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2017&filename=GTXY201703016
 
 [12]胡明娣,王静,谭明明.基于乘积蕴涵算子相似度量的异构网络垂直切换[J].西安邮电大学学报,2017,22(03):6-12. （核心）
+https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2017&filename=XAYD201703002
 
 [13]胡明娣,谭明明.基于Vague集的异构网络垂直切换算法[J].西安邮电大学学报,2016,21(06):83-87. （核心）
+https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2016&filename=XAYD201606014
 
 [14]胡明娣.平衡逻辑公式在逻辑度量空间中的分布[J].模糊系统与数学,2013,27(01):55-62. （核心）
+https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2013&filename=MUTE201301009
 
 [15]楼志刚,刘宏昭,胡明娣.对称逻辑度量次范整子空间及其性质[J].计算机工程与应用,2013,49(05):40-43.（CSCD）
+https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2013&filename=JSGG201305011
 
 [16]王国俊,胡明娣.经典逻辑度量空间中的模2次范整线性空间结构[J].电子学报,2011,39(4):899-906. （EI:20112714112099）
+https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2011&filename=DZXU201104030
 
 [17]胡明娣,王国俊.对称逻辑公式在经典逻辑度量空间中的分布[J].电子学报,2011,39(2):418-423. （EI:20111713935641）
+https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2011&filename=DZXU201102028
 
 [18]胡明娣,楼志刚.经典逻辑度量空间中的边角关系[J].西北大学学报(自然科学版),2011,41(2):206-211. （核心）
+https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2011&filename=XBDZ201102003
 
-[19]Mingdi Hu. Equilateral polygons in classical logic metric space[C]. Advances in Soft Computing. Proceedings of the Quantitative Logic and Soft Computing 2010.Springer-Verlag Berlin Heidelberg, 2010, 82, 127-134. （ISTP:000290499400010）
+[19]胡明娣,折延宏,王敏.三值逻辑度量空间的拓扑性质[J].山东大学学报(理学版),2010,45(6):86-90. （核心）
+https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2010&filename=SDDX201006018
 
-[20]胡明娣,王国俊.模糊模态逻辑的有效公式与永真式[J].电子学报,2009,37(11):2484-2488. （EI:20095312588411）
+[20]Mingdi Hu. Equilateral polygons in classical logic metric space[C]. Advances in Soft Computing. Proceedings of the Quantitative Logic and Soft Computing 2010.Springer-Verlag Berlin Heidelberg, 2010, 82, 127-134. （ISTP:000290499400010）
 
-[21]胡明娣,王国俊.经典逻辑度量空间上的反射变换[J].陕西师范大学学报(自然科学版),2009,37(6):1-4. （ISTP:00290499400010）
+[21]胡明娣,王国俊.模糊模态逻辑中的永真式与准永真式[J].电子学报,2009,37(11):2484-2488. （EI:20095312588411）
+https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2009&filename=DZXU200911022
 
-[22]Mingdi Hu, Lifeng Li. Quasi-tautologies in fuzzy modal logic system[C]. Proceedings of International Conference on Quantitative Logic and Quantifications of Software,Pages 55-61, June 6-8,2009,Shanghai, China. （EI）
+[22]胡明娣,王国俊.经典逻辑度量空间上的反射变换[J].陕西师范大学学报(自然科学版),2009,37(6):1-4. （ISTP:00290499400010）
+https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2009&filename=SXSZ200906001
 
-[23]胡明娣,楼志刚.蕴涵格的正规MP-滤子和素滤子[J].山东大学学报(理学版),2008,43(5):33-35. （核心）
+[23]Mingdi Hu, Lifeng Li. Quasi-tautologies in fuzzy modal logic system[C]. Proceedings of International Conference on Quantitative Logic and Quantifications of Software,Pages 55-61, June 6-8,2009,Shanghai, China. （EI）
 
-[24]胡明娣,折延宏,王敏.三值逻辑度量空间的拓扑性质[J].山东大学学报(理学版),2008,43(5):33-35. （核心）
+[24]胡明娣,楼志刚.蕴涵格的正规MP-滤子和素滤子[J].山东大学学报(理学版),2008,43(5):33-35. （核心）
+https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFD2008&filename=SDDX200810007
+
+
 
 
 # 培养硕士生
